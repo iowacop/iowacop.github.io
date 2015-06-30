@@ -320,7 +320,7 @@ h4 {
 /* image styling */
 /* line 46, ../sass/screen.scss */
 #exhibit img {
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   margin-bottom: 1em;
   margin-top: 1em;
 }
