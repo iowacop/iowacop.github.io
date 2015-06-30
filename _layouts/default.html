@@ -9,7 +9,7 @@
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>Projects</title>
+					<title>I.O.W.A. COLLECTIVE</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
@@ -44,7 +44,7 @@
 					</ul>
 				{%  endfor %}
 				<div class='bot'><p><br />
-				<a href='http://iowaco.github.io'>iowa.nz</a></p>
+				<a href='/about.md'>about us</a></p>
 				<p>Built with <a href='https://github.com/colaborativa/Jekyllxhibit'>Jekyllxhibit</a></p></div>
 			</div>
 		</div>
