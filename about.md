@@ -22,6 +22,38 @@ twitter -
 
 Copyright 2015 I.O.W.A.
 <br>
+Anita Kagaya
+<br>
+Yasmin Waiching
+<br>
+Frida Keegan
+<br>
+Emily Cloete
+<br>
+Afreen Naoroji
+<br>
+Rosza Majsa
+<br>
+Taipari Connelly
+<br>
+Joseph Durana 
+<br>
+Anna Ozawa
+<br>
+Albert Folasa-Sua
+<br>
+Eason Xu
+<br>
+Bella Sun
+<br>
+Kaylin Debruyn
+<br>
+Kaoru Kodama
+<br>
+Tom Hackshaw
+<br>
+and you
+<br>
 <img src="https://i.creativecommons.org/l/by/4.0/80x15.png"><br>This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution International License.</a>
 
 
