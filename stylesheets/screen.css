@@ -216,7 +216,7 @@ a:link {
 /* line 21, ../sass/screen.scss */
 a:active {
   text-decoration: none;
-  color: #00cc00;
+  color: #91ccd9;
 }
 
 /* line 22, ../sass/screen.scss */
@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #7cbe8e;
+  background: #91ccd9;
   /* line-height: 1.3em; */
 }
 
