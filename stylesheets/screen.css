@@ -210,19 +210,19 @@ body {
 /* line 20, ../sass/screen.scss */
 a:link {
   text-decoration: none;
-  color: #000;
+  color: #d3eaef;
 }
 
 /* line 21, ../sass/screen.scss */
 a:active {
   text-decoration: none;
-  color: #91ccd9;
+  color: #d3eaef;
 }
 
 /* line 22, ../sass/screen.scss */
 a:visited {
   text-decoration: none;
-  color: ##d3eaef;
+  color: #d3eaef;
 }
 
 /* line 23, ../sass/screen.scss */
