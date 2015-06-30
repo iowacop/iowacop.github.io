@@ -9,7 +9,7 @@ We focus our practice on site-specific art, demonstrated through various mediums
 
 In our work as a collective, site-specific means dismantling hierarchies, boundaries between past and present, artist and audience.
 
-### Contact
+### contact
 
 email - [info@io-wa.me][mail]
 <br>
