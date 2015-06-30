@@ -222,7 +222,7 @@ a:active {
 /* line 22, ../sass/screen.scss */
 a:visited {
   text-decoration: none;
-  color: #666;
+  color: ##d3eaef;
 }
 
 /* line 23, ../sass/screen.scss */
@@ -546,7 +546,7 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
 
 /* line 154, ../sass/screen.scss */
 .form-submit input:hover {
-  background: #0c0;
+  background: #91CCD9;
 }
 
 /* line 159, ../sass/screen.scss */
