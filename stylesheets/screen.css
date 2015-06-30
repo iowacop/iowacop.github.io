@@ -197,10 +197,10 @@ object {
 
 /* line 9, ../sass/screen.scss */
 body {
-  font-size: 13px;
+  font-size: 14px;
   font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
-  background: #fff;
-  color: #000;
+  background: #7cbe8e;
+  color: #fff;
   line-height: 1.3em;
   /* font-weight: 300; */
 }
@@ -210,7 +210,7 @@ body {
 /* line 20, ../sass/screen.scss */
 a:link {
   text-decoration: none;
-  color: #A8F293;
+  color: #CEE6ED;
 }
 
 /* line 21, ../sass/screen.scss */
