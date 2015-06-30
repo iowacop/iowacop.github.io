@@ -197,10 +197,10 @@ object {
 
 /* line 9, ../sass/screen.scss */
 body {
-  font-size: 14px;
+  font-size: 13px;
   font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-serif;
-  background: #7cbe8e;
-  color: #fff;
+  background: #fff;
+  color: #000;
   line-height: 1.3em;
   /* font-weight: 300; */
 }
@@ -209,20 +209,20 @@ body {
 /* you can customize links further down the page too */
 /* line 20, ../sass/screen.scss */
 a:link {
-  text-decoration: underline;
-  color: #CEE6ED;
+  text-decoration: none;
+  color: #d3eaef;
 }
 
 /* line 21, ../sass/screen.scss */
 a:active {
   text-decoration: none;
-  color: #00cc00;
+  color: #d3eaef;
 }
 
 /* line 22, ../sass/screen.scss */
 a:visited {
   text-decoration: none;
-  color: #666;
+  color: #d3eaef;
 }
 
 /* line 23, ../sass/screen.scss */
@@ -320,7 +320,7 @@ h4 {
 /* image styling */
 /* line 46, ../sass/screen.scss */
 #exhibit img {
-  border: 0px solid #ddd;
+  border: 1px solid #ddd;
   margin-bottom: 1em;
   margin-top: 1em;
 }
@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #00cc00;
+  background: #91ccd9;
   /* line-height: 1.3em; */
 }
 
@@ -546,7 +546,7 @@ li.active a:visited, li a.active, li span.active, #index ul.section li.active a:
 
 /* line 154, ../sass/screen.scss */
 .form-submit input:hover {
-  background: #0c0;
+  background: #91CCD9;
 }
 
 /* line 159, ../sass/screen.scss */
