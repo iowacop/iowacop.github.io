@@ -18,8 +18,8 @@ body {
 /* link scheme */
 /* you can customize links further down the page too */
 a:link { text-decoration: none; color: #000; }
-a:active { text-decoration: none; color: #00cc00; }
-a:visited { text-decoration: none; color: #666; }
+a:active { text-decoration: none; color: #7cbe8e; }
+a:visited { text-decoration: underline; color: #CEE6ED; }
 a:hover { text-decoration: underline; }
 a img { border: none; }
 
@@ -43,11 +43,11 @@ h4 { font-size: 13px; margin-bottom: 1em; margin-top: 1em; }
 #exhibit li{ list-style-type: disc; margin-bottom: 0.5em; margin-top: 0.5em;}
 
 /* image styling */
-#exhibit img{ border: 1px solid #ddd; margin-bottom: 1em; margin-top: 1em;}
+#exhibit img{ border: opx solid #ddd; margin-bottom: 1em; margin-top: 1em;}
 #exhibit img.sinBorde{ border: none;}
 
 /* highlighter style - maybe you want to change colors? */
-.highlight { background: #ccff00; color: #000; }
+.highlight { background: #7cbe8e; color: #000; }
 
 /* never adjust the margin or padding here unless you seriously know what you are doing */
 /* think #index .container and #exhibit .container for only padding adjustments */
