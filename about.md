@@ -13,15 +13,10 @@ In our work as a collective, site-specific means dismantling hierarchies, bounda
 
 email - [info@io-wa.me][mail]
 <br>
-twitter - 
+twitter - _coming soon!_
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+### we are made up of
 
-Copyright 2015 I.O.W.A.
-<br>
 Anita Kagaya
 <br>
 Yasmin Waiching
@@ -53,6 +48,13 @@ Kaoru Kodama
 Tom Hackshaw
 <br>
 and you
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+Copyright 2015 I.O.W.A.
 <br>
 <img src="https://i.creativecommons.org/l/by/4.0/80x15.png"><br>This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution International License.</a>
 
