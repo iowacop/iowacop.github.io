@@ -209,7 +209,7 @@ body {
 /* you can customize links further down the page too */
 /* line 20, ../sass/screen.scss */
 a:link {
-  text-decoration: none;
+  text-decoration: underline;
   color: #CEE6ED;
 }
 
@@ -320,7 +320,7 @@ h4 {
 /* image styling */
 /* line 46, ../sass/screen.scss */
 #exhibit img {
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   margin-bottom: 1em;
   margin-top: 1em;
 }
@@ -342,7 +342,7 @@ h4 {
 /* line 54, ../sass/screen.scss */
 #index {
   width: 215px;
-  background: #fff;
+  background: #00cc00;
   /* line-height: 1.3em; */
 }
 
