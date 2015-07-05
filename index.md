@@ -4,12 +4,6 @@ layout: default
 published: true
 ---
 
----
-title: null
-layout: default
-published: true
----
-
 <center>
 <br><br>
 <br><br>
