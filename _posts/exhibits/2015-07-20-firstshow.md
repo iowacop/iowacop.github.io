@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: First show (IOWA @ Studio One Toi Tū
+title: First show 
 section: current
 category: exhibit
 ---
