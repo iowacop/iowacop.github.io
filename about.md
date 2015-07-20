@@ -29,8 +29,6 @@ Afreen Naoroji
 <br>
 Rosza Majsa
 <br>
-Taipari Connelly
-<br>
 Joseph Durana 
 <br>
 Anna Ozawa
