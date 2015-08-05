@@ -6,6 +6,6 @@ published: true
 <br><br>
 <center>
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/V4dFmytgz3U?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<img src="https://farm1.staticflickr.com/561/20117905980_1d307d4f5a_c.jpg">
 
 </center>
