@@ -15,38 +15,6 @@ email - [info@io-wa.me][mail]
 <br>
 tumblr - [tumblr.iowa.nz][tmblr]
 
-### we are made up of
-
-Anita Kagaya
-<br>
-Yasmin Waiching
-<br>
-Frida Keegan
-<br>
-Emily Cloete
-<br>
-Afreen Naoroji
-<br>
-Rosza Majsa
-<br>
-Joseph Durana 
-<br>
-Anna Ozawa
-<br>
-Albert Folasa-Sua
-<br>
-Eason Xu
-<br>
-Bella Sun
-<br>
-Kaylin Debruyn
-<br>
-Kaoru Kodama
-<br>
-Tom Hackshaw
-<br>
-and you
-
 <br><br>
 <br><br>
 <br><br>
