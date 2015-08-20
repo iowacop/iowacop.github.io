@@ -3,4 +3,6 @@ title: index
 layout: default
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V4dFmytgz3U?rel=0" frameborder="0" allowfullscreen></iframe>
+<center>
+<img src="https://farm6.staticflickr.com/5759/20720892102_b45e927415_o_d.jpg" alt="Final" height="534" width="800">
+</center>
