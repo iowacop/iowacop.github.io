@@ -3,7 +3,7 @@ title: about us
 layout: default
 ---
 
-The IOWA Collective are a group of interdisciplinary artists from the Elam School of Fine Arts, Auckland, New Zealand.
+The Copyleft Collective (formerly known as the IOWA Collective) are a group of interdisciplinary artists from the Elam School of Fine Arts, Auckland, New Zealand.
 
 We focus our practice on site-specific art, demonstrated through various mediums and disciplines.
 
@@ -20,7 +20,6 @@ tumblr - [tumblr.iowa.nz][tmblr]
 <br><br>
 <br><br>
 
-Copyright 2015 The IOWA Collective
 <br>
 <img src="https://i.creativecommons.org/l/by/4.0/80x15.png"><br>All works licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution International License</a> unless noted otherwise.
 
