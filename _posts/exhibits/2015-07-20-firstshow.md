@@ -2,13 +2,15 @@
 published: true
 layout: default
 
-title: First show 
+title: Whau Arts Festival 2015
 section: current
 category: exhibit
 ---
 
-<img src="https://farm1.staticflickr.com/684/20542377810_30ddbaebb5_z_d.jpg">
+For the next few weeks the Copyleft Collective and the [Whau The People][whau] Collective will be participating in the Whau Arts Festival 2015.
 
-Thank you to everyone who came to see the show
+Things are still in a early preliminary phase, but more info can be found [here][here]
 
+[whau]: http://whauthepeople.com
+[here]: http://whauthepeople.com/avondale-market-project-2015/
 
