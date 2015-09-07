@@ -6,6 +6,6 @@ published: true
 <br><br>
 <center>
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/oEbEuaxonC0?rel=0&amp;showinfo=0;vq=hd720" frameborder="0" allowfullscreen></iframe>
+<a href="http://whauthepeople.com"><img src="https://d.maxfile.ro/pjzrpciihv.jpg">
 
 </center>
