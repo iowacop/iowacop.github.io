@@ -11,7 +11,7 @@ In our work as a collective, site-specific means dismantling hierarchies, bounda
 
 ### contact
 
-email - [info@io-wa.me][mail]
+email - [info@iowa.nz][mail]
 <br>
 tumblr - [tumblr.iowa.nz][tmblr]
 
@@ -24,5 +24,5 @@ tumblr - [tumblr.iowa.nz][tmblr]
 <img src="https://i.creativecommons.org/l/by/4.0/80x15.png"><br>All works licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution International License</a> unless noted otherwise.
 
 
-[mail]: mailto:info@io-wa.me
+[mail]: mailto:info@iowa.nz
 [tmblr]: http://tumblr.iowa.nz
