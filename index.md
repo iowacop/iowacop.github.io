@@ -6,6 +6,6 @@ published: true
 <br><br>
 <center>
 
-<a href="http://whauthepeople.com"><img src="https://d.maxfile.ro/pjzrpciihv.jpg">
+<a href="http://whauthepeople.com"><img src="https://d.maxfile.ro/nfqxdsjpqo.jpg">
 
 </center>
